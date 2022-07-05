@@ -48,7 +48,7 @@ body {
     font-weight: bold;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 400px) {
     .info{
         text-align: center;
         padding-top: 3%;
