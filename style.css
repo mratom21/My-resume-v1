@@ -60,6 +60,10 @@ body {
         margin-right: 7px;
         padding-left: 2px;
     }
+    
+    .avatar {
+        padding: 25px 6px;
+    }
 }
 
 
